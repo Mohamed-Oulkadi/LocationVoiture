@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CarList>
+    <Car>
+        <Brand>Toyota</Brand>
+        <Model>Corolla</Model>
+        <Price>20000</Price>
+        <RegNum>123ABC</RegNum>
+        <Status>Disponible</Status>
+    </Car>
+    <Car>
+        <Brand>Honda</Brand>
+        <Model>Civic</Model>
+        <Price>22000</Price>
+        <RegNum>456DEF</RegNum>
+        <Status>Reservé</Status>
+    </Car>
+    <Car>
+        <Brand>Ford</Brand>
+        <Model>Focus</Model>
+        <Price>18000</Price>
+        <RegNum>789GHI</RegNum>
+        <Status>Disponible</Status>
+    </Car>
+</CarList>
